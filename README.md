@@ -46,18 +46,16 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Pia Documentacion        8 mins              ██████████████████████░░░   90.2% 
-Unknown Project          0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
-Pia                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
