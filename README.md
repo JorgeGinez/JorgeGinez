@@ -1,95 +1,68 @@
- ### Hi there 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ivanjtm&hide_border=true&background=00000000&border=FFFFFF00&sideNums=A8A8A8&sideLabels=A8A8A8&currStreakNum=FFC93C&dates=A8A8A8)](https://git.io/streak-stats"/>
+</div>
+
+**👦🏻 Social Media**
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanjtm)
+[![Follow on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ivanjtm)
+
+**💻 My Workspace**
+
+![Mac Book](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=flat-square&logo=apple&logoColor=white)
+![AMD Radeon Pro 5300M](https://img.shields.io/badge/AMD-Radeon_Pro_5300M-ED1C24?style=flat-square&logo=amd&logoColor=white)
+![Intel Core i7 9th](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=flat-square&logo=intel&logoColor=white)
+![Ram 16GB](https://img.shields.io/badge/RAM-16GB-230071C5?style=flat-square&logoColor=white)
+![Mac OS](https://img.shields.io/badge/Mac%20OS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 
 <!--START_SECTION:waka-->
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 144 Contributions in the Year 2021
- > 
-> 📦 88.1 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    29 commits     ███████░░░░░░░░░░░░░░░░░░   28.16% 
-🌆 Daytime    57 commits     █████████████░░░░░░░░░░░░   55.34% 
-🌃 Evening    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-Tuesday      18 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-Wednesday    23 commits     █████░░░░░░░░░░░░░░░░░░░░   22.33% 
-Thursday     20 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-Friday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.83% 
-Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Mexico_City
+⌚︎ Time Zone: America/Monterrey
 
 💬 Programming Languages: 
-PHP                      5 mins              ████████████████████████░   96.07% 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.93%
+Blade Template           2 hrs 28 mins       █████████████████░░░░░░░░   69.92% 
+CSS                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
+PHP                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-alpek                    6 mins              █████████████████████████   100.0%
+VS Code                  3 hrs 31 mins       ████████████████████████░   99.35% 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.0%
+Mac                      3 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Java** 
 
 ```text
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-C#                       2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+Java                     8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63% 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
 ```
 
 
 
- Last Updated on 22/07/2021
-
-
+ Last Updated on 10/08/2021
 <!--END_SECTION:waka-->
+**📈 My contributions the last 31 days**
+ ![ivanjtm's github activity graph](https://activity-graph.herokuapp.com/graph?username=ivanjtm&hide_title=true&bg_color=FFFFFF00&color=A8A8A8FF&point=fb8c00&line=FFC93CFF&hide_border=true)
 
- <!--
-**JorgeGinez/JorgeGinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=ivanjtm&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true?count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanjtm&layout=compact&hide_border=true&langs_count=50">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ivanjtm&hide_border=true"> 
+</p>
 -->
