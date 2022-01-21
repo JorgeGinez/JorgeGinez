@@ -42,18 +42,16 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C                        1 min               █████████████░░░░░░░░░░░░   52.01% 
-PHP                      1 min               ████████████░░░░░░░░░░░░░   47.99%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████░░░░░░░░░░░░   52.01% 
-alpek                    1 min               ████████████░░░░░░░░░░░░░   47.99%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -74,5 +72,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JorgeGinez/JorgeGinez/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 21/01/2022 18:45:44 UTC
 <!--END_SECTION:waka-->
