@@ -74,5 +74,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JorgeGinez/JorgeGinez/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 18:50:08 UTC
+ Last Updated on 18/06/2022 18:46:36 UTC
 <!--END_SECTION:waka-->
