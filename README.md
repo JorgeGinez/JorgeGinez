@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,5 +74,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JorgeGinez/JorgeGinez/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:52:46 UTC
+ Last Updated on 17/08/2022 18:53:11 UTC
 <!--END_SECTION:waka-->
