@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -7,7 +7,7 @@
 
 > 🏆 1 Contributions in the Year 2022
  > 
-> 📦 88.5 kB Used in GitHub's Storage 
+> 📦 88.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,14 +44,16 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Java                     6 hrs 28 mins       █████████████████████████   99.99% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Java                     9 hrs 58 mins       ███████████████████████░░   93.77% 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-IntelliJ                 6 hrs 28 mins       █████████████████████████   100.0%
+IntelliJ                 10 hrs 38 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    6 hrs 28 mins       █████████████████████████   100.0%
+Linux                    10 hrs 38 mins      █████████████████████████   100.0%
 
 ```
 
@@ -72,5 +74,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JorgeGinez/JorgeGinez/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/09/2022 18:53:17 UTC
+ Last Updated on 09/09/2022 18:54:18 UTC
 <!--END_SECTION:waka-->
