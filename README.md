@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,14 +44,14 @@ Sunday       6 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Java                     1 hr 25 mins        █████████████████████████   99.95% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Java                     50 mins             █████████████████████████   100.0% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-IntelliJ                 1 hr 25 mins        █████████████████████████   100.0%
+IntelliJ                 50 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 25 mins        █████████████████████████   100.0%
+Linux                    50 mins             █████████████████████████   100.0%
 
 ```
 
@@ -72,5 +72,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/JorgeGinez/JorgeGinez/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2022 18:56:53 UTC
+ Last Updated on 22/09/2022 18:54:40 UTC
 <!--END_SECTION:waka-->
